@@ -1,0 +1,15 @@
+title:
+  ru: Обновить
+  en_us: Reload
+
+tooltip:
+  ru: Обновляет все кнопки текущей вкладки до последней версии.
+  en_us: Updates all buttons from current tab to the latest version.
+
+author: dosymep
+context: zero-doc
+
+help_url: "https://kb.a101.ru/pages/viewpage.action?pageId=67829987"
+
+min_revit_version: 2020
+max_revit_version: 2024
