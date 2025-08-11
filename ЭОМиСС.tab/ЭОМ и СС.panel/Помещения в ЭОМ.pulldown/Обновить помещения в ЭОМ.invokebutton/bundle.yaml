@@ -1,0 +1,25 @@
+title:
+  ru: "Обновить помещения\n в ЭОМ"
+  en_us: "Update rooms\n in EOM"
+
+
+tooltip:
+  ru: >-
+    Обновить помещения в ЭОМ
+    1. Открыть документ и запустить плагин.
+    2. Выбрать связанные файлы чьи комнаты будут обработаны для создания аннотаций 
+    3. Нажать Ок
+  en_us: >-
+    Update rooms in EOM
+    1. Open the document and run the plugin.
+    2. Select the related files whose rooms will be processed to create annotations
+    3. Push Ok
+
+assembly: RevitRoomAnnotations.dll
+command_class: RevitRoomAnnotationsCommand
+
+author: KGubin
+help_url:
+
+min_revit_version: 2022
+max_revit_version: 2024
